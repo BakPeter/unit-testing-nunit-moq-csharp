@@ -15,8 +15,8 @@
   - [Interaction between objects Verify](#interaction-between-objects-verify)
   - [Moked object method value returned](#moked-object-method-value-returned)
   - [Moked object method generic args](#moked-object-method-generic-args)
-  - [Test with helper methods](#test-with-jelper-methods)
-- [Comments](./comments.rtf)
+  - [Test with helper methods](#test-with-helper-methods)
+- [Comments](#comments)
 
 ## Udemy coure
 
@@ -385,3 +385,7 @@ public class BookingHelper_OverlappingBookingsExistTests
     }
 }
 ```
+
+### Comment
+
+Comments in [comments.pdf](./Docs/comments.pdf)
