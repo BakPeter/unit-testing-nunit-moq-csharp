@@ -386,6 +386,8 @@ public class BookingHelper_OverlappingBookingsExistTests
 }
 ```
 
-### Comment
+### Comments
+
+**[`^ top ^`](#unit-testing-nunit-moq-csharp)** | **[`^ Table of content ^`](#table-of-content)**
 
 Comments in [comments.pdf](./Docs/comments.pdf)
