@@ -22,7 +22,7 @@
 
 **[`^ top ^`](#unit-testing-nunit-moq-csharp)** | **[`^ Table of content ^`](#table-of-content)**
 
-https://www.udemy.com/course/unit-testing-csharp/
+[https://www.udemy.com/course/unit-testing-csharp](https://www.udemy.com/course/unit-testing-csharp)
 
 ## Code Templates
 
