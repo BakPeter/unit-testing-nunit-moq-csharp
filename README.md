@@ -18,7 +18,7 @@
   - [Test with helper methods](#test-with-helper-methods)
 - [Comments](#comments)
 
-## Udemy coure
+## Udemy course
 
 **[`^ top ^`](#unit-testing-nunit-moq-csharp)** | **[`^ Table of content ^`](#table-of-content)**
 
